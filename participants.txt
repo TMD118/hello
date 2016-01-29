@@ -4,3 +4,9 @@ Finance team
 -John
 -Stacy
 -Alaxander
+
+Marketing team
+-Collins
+-Linda
+-Patrica
+-Morgan
